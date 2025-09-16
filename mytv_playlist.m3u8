@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,list1
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+#EXTINF:-1,list2
+https://raw.githubusercontent.com/hemzaberkane/ARAB-IPTV/refs/heads/main/ARABIPTV.m3u

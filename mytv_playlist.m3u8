@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1,list1
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
-#EXTINF:-1,list2
-https://raw.githubusercontent.com/hemzaberkane/ARAB-IPTV/refs/heads/main/ARABIPTV.m3u
+#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
+0.0.0.0
+#EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,الإمارات
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNLQRXp6KANXdg49NaAb_HA&psig=AOvVaw2v-j79RYrEt0VhdiwjHEWl&ust=1758121054527000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjk4bnF3Y8DFQAAAAAdAAAAABAK" 
+,RASD TV
+https://mytv-production.up.railway.app/fetch 

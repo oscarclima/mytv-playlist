@@ -2,3 +2,50 @@
 
 #EXTINF:-1 tvg-id="RASAD TV" tvg-logo="https://i.imgur.com/9Pb8806.png"  group-title="RASD TV",الجمهورية العربية الصحراوية
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830&live=1
+
+#EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" group-title="News Arabic", الجزيرة الإخبارية
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" group-title="News Arabic",الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" group-title="News Arabic",2الجزيرة مباشر
+https://newajm2.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.nws" tvg-logo="https://i.ibb.co/w7wk4p0/alarabiya.png" group-title="News Arabic", العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sw6tV5W/alhadath.jpg" group-title="News Arabic",العربية الحدث
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://vid.alarabiya.net/images/2023/10/27/62f548e2-46ca-470b-93a9-c9f80deefef9/62f548e2-46ca-470b-93a9-c9f80deefef9_16x9_1200x676.jpg?width=1120&format=jpg"  group-title="News Arabic",العربية Buisness
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cnbcarabia.com/_next/static/media/cnbc-logo-white.b6d7d504.svg" group-title="News Arabic",CNBC عربية
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6P5CKrZ/asharq.png" group-title="News Arabic", الشرق
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qxJbQHP/alaraby.png" group-title="News Arabic", العربي
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alqaheranews.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.6a2665e0.png&w=1200&q=75" group-title="News Arabic", القاهرة الإخبارية
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0jdHZW6/alhurra.png" group-title="News Arabic", الحرِّة
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPP13X6/rtar.jpg" group-title="News Arabic", روسيا اليوم
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png" group-title="News Arabic",الحـــوار
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="BBCArabic.net" tvg-logo="https://i.ibb.co/yRc4rDX/bbcar.png" group-title="News Arabic", بي بي سي عربي
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="SkyNwsArabia.nws" tvg-logo="https://i.ibb.co/fFyvbrC/skynewsar.png" group-title="News Arabic", سكاي نيوز عربية
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://almashhad.com/static/images/LogoBlue.svg" group-title="News Arabic",المشهد
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.almayadeen.tv/images/logo/new-logo-small.png" group-title="News Arabic", الميادين
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://shams.tv/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.fa219549.svg&w=128&q=75" group-title="News Arabic",شـــمس
+https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8d1Srb9/alalam.jpg" group-title="News Arabic", العالم الإيرانية
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fmvtnr7/dw-ar.png" group-title="News Arabic", صوت ألمانيا
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" group-title="News Arabic", فرنسا 24
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-logo="https://i.ibb.co/GQbQGkG/trt-ar.jpg" group-title="News Arabic",TRT العربية
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qMFKcBh/CGTN-arabic.png" group-title="News Arabic", CGTN العربية
+https://livear.cgtn.com/1000a/prog_index.m3u8

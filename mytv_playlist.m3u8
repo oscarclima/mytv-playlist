@@ -14,6 +14,8 @@ https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" group-title="News Arabic", الجزيرة الإخبارية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" group-title="News Arabic", Aljezzera english
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" group-title="News Arabic",الجزيرة مباشر
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" group-title="News Arabic",2الجزيرة مباشر
